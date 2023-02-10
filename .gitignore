@@ -1,3 +1,4 @@
 *.zip
 venv/
 python/
+.DS_Store
